@@ -1,5 +1,5 @@
 
-# Web3 Fundraising Platform 
+# Web3 Fundraising Platform in form of Token
 
 Raise funds for your projects/campaigns with ethereum as the native currency
 
@@ -28,7 +28,7 @@ All the ETH received by a project will automatically be sent to the address corr
 1. Clone the repo
 
 ```sh
-git clone https://github.com/hrishi0102/Web3-Fundraiser.git
+gh repo clone ashishgupta1527/Tokenraiser
 ```
 
 2. Installing dependencies and requirements
